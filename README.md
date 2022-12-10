@@ -1,5 +1,5 @@
 # SomeBashUtils
- Partial implementation of functions cat and grep.
+ Partial implementation of functions cat and grep (Single).
  
 The first single task of the main training program. 
 This task partially implements of
